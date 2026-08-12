@@ -108,7 +108,7 @@ export const PwaInstallCard = () => {
         <div className="space-y-1">
           <p className="text-sm font-semibold text-slate-900">ホーム画面に追加</p>
           <p className="text-xs leading-5 text-slate-600">
-            野球ノートをアプリのように開けます。起動が速くなり、ブラウザのタブを開かずに使えます。
+            びーびー日記をアプリのように開けます。起動が速くなり、ブラウザのタブを開かずに使えます。
           </p>
         </div>
         <button

@@ -5,7 +5,7 @@ import { ParentInviteForm } from './parent-invite-form'
 import { cancelParentInvite, resendParentInviteCode } from './actions'
 
 export const metadata = {
-  title: '保護者の登録 | 野球ノート',
+  title: '保護者の登録 | びーびー日記',
 }
 
 type LinkRow = {

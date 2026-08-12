@@ -4,7 +4,7 @@ import { requireRole } from '@/lib/current-user'
 import { PageHeader } from '@/components/page-header'
 
 export const metadata = {
-  title: '監督ダッシュボード | 野球ノート',
+  title: '監督ダッシュボード | びーびー日記',
 }
 
 export default async function CoachDashboardPage() {

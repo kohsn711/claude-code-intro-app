@@ -8,7 +8,7 @@ import { RecordDetailView, formatDateHeader } from '@/components/record-detail-v
 import { RecordSocial } from '@/components/record-social'
 
 export const metadata = {
-  title: '記録詳細 | 野球ノート',
+  title: '記録詳細 | びーびー日記',
 }
 
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/

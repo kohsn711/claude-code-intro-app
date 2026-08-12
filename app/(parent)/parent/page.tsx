@@ -4,7 +4,7 @@ import { requireRole } from '@/lib/current-user'
 import { PageHeader } from '@/components/page-header'
 
 export const metadata = {
-  title: '保護者ホーム | 野球ノート',
+  title: '保護者ホーム | びーびー日記',
 }
 
 export default async function ParentHomePage() {

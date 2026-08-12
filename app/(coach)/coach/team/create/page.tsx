@@ -3,7 +3,7 @@ import { requireRole } from '@/lib/current-user'
 import { TeamCreateForm } from './team-create-form'
 
 export const metadata = {
-  title: 'チーム作成 | 野球ノート',
+  title: 'チーム作成 | びーびー日記',
 }
 
 export default async function CreateTeamPage() {

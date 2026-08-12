@@ -6,7 +6,7 @@ import { GoalForm } from '../../goal-form'
 import { updateGoal } from '../../actions'
 
 export const metadata = {
-  title: '目標を編集 | 野球ノート',
+  title: '目標を編集 | びーびー日記',
 }
 
 const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i

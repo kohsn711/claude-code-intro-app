@@ -21,7 +21,7 @@ import {
 } from './actions'
 
 export const metadata = {
-  title: 'コンテンツ管理 | 野球ノート',
+  title: 'コンテンツ管理 | びーびー日記',
 }
 
 type SearchParams = Promise<{

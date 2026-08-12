@@ -5,7 +5,7 @@ import { PageHeader } from '@/components/page-header'
 import { MarkReadOnView } from './mark-read-on-view'
 
 export const metadata = {
-  title: '通知 | 野球ノート',
+  title: '通知 | びーびー日記',
 }
 
 const formatJst = (iso: string): string => {

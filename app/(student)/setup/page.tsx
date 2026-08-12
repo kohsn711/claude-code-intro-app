@@ -5,7 +5,7 @@ import { SetupForm } from './setup-form'
 import { ParentSetupForm } from './parent-setup-form'
 
 export const metadata = {
-  title: '初期設定 | 野球ノート',
+  title: '初期設定 | びーびー日記',
 }
 
 export default async function SetupPage() {

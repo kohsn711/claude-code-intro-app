@@ -7,7 +7,7 @@ import { requireRole } from '@/lib/current-user'
 import { CoachCalendar } from '@/components/coach-calendar'
 
 export const metadata = {
-  title: 'お子さまの記録 | 野球ノート',
+  title: 'お子さまの記録 | びーびー日記',
 }
 
 const UUID = /^[0-9a-fA-F-]{36}$/

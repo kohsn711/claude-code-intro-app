@@ -3,7 +3,7 @@ import { requireRole } from '@/lib/current-user'
 import { TeamJoinForm } from './team-join-form'
 
 export const metadata = {
-  title: 'チームに参加 | 野球ノート',
+  title: 'チームに参加 | びーびー日記',
 }
 
 export default async function JoinTeamPage() {
