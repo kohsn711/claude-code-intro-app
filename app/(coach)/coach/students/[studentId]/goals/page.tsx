@@ -6,7 +6,7 @@ import { requireRole } from '@/lib/current-user'
 import { GOAL_CATEGORY_LABEL, GOAL_STATUS_LABEL } from '@/lib/goals-constants'
 
 export const metadata = {
-  title: '選手の目標 | 野球ノート',
+  title: '選手の目標 | びーびー日記',
 }
 
 const UUID = /^[0-9a-fA-F-]{36}$/

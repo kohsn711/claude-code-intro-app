@@ -1,7 +1,7 @@
 import { LoginForm } from './login-form'
 
 export const metadata = {
-  title: 'ログイン | 野球ノート',
+  title: 'ログイン | びーびー日記',
 }
 
 export default function LoginPage() {

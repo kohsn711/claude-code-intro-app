@@ -9,7 +9,7 @@ import { createContent } from '../actions'
 import { ContentForm } from '../content-form'
 
 export const metadata = {
-  title: 'コンテンツ新規作成 | 野球ノート',
+  title: 'コンテンツ新規作成 | びーびー日記',
 }
 
 export default async function NewContentPage() {

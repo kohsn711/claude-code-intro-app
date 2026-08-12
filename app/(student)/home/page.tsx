@@ -7,7 +7,7 @@ import { PageHeader } from '@/components/page-header'
 import { Calendar } from './calendar'
 
 export const metadata = {
-  title: 'ホーム | 野球ノート',
+  title: 'ホーム | びーびー日記',
 }
 
 export default async function StudentHome() {

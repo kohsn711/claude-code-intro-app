@@ -6,7 +6,7 @@ import { BackLink } from './back-link'
 import { RecordForm } from './record-form'
 
 export const metadata = {
-  title: '記録 | 野球ノート',
+  title: '記録 | びーびー日記',
 }
 
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/

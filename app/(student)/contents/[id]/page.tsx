@@ -10,7 +10,7 @@ export const generateMetadata = async ({ params }: { params: Params }) => {
   const { id } = await params
   const content = await fetchContentDetail(id, 'student')
   return {
-    title: content ? `${content.title} | 野球ノート` : 'コンテンツ | 野球ノート',
+    title: content ? `${content.title} | びーびー日記` : 'コンテンツ | びーびー日記',
   }
 }
 

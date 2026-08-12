@@ -15,7 +15,7 @@ const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
 type Params = Promise<{ id: string }>
 
 export const metadata = {
-  title: 'コンテンツ編集 | 野球ノート',
+  title: 'コンテンツ編集 | びーびー日記',
 }
 
 export default async function EditContentPage({

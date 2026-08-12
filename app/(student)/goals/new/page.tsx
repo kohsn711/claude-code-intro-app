@@ -4,7 +4,7 @@ import { GoalForm } from '../goal-form'
 import { createGoal } from '../actions'
 
 export const metadata = {
-  title: '目標を新規作成 | 野球ノート',
+  title: '目標を新規作成 | びーびー日記',
 }
 
 export default async function NewGoalPage() {

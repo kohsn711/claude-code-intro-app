@@ -4,7 +4,7 @@ import { requireRole } from '@/lib/current-user'
 import { approveParentLink, rejectParentLink } from './actions'
 
 export const metadata = {
-  title: '招待・連携 | 野球ノート',
+  title: '招待・連携 | びーびー日記',
 }
 
 type LinkRow = {

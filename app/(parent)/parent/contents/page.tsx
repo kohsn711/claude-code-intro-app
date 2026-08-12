@@ -7,7 +7,7 @@ import { ContentsList } from '@/components/contents-list'
 import { PageHeader } from '@/components/page-header'
 
 export const metadata = {
-  title: 'コンテンツ | 野球ノート',
+  title: 'コンテンツ | びーびー日記',
 }
 
 type SearchParams = Promise<{ category?: string }>

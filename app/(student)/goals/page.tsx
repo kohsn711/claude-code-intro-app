@@ -11,7 +11,7 @@ import { PageHeader } from '@/components/page-header'
 import { StatusButtons } from './status-buttons'
 
 export const metadata = {
-  title: '目標 | 野球ノート',
+  title: '目標 | びーびー日記',
 }
 
 export default async function GoalsPage({
